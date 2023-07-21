@@ -5,3 +5,4 @@ This repository contains some of my old projects during my university years and 
 Complete List of Projects Here:
 
 1. Fraud Detection: A group project for my Data Science Class. Utilizing H2O, we managed to get 0.48 on F1-Score using Gradient Boosting to predict fraud.
+2. Smartphone Brand Analysis: An individual project for my Data Science Class. Basically I analyzed customer's smartphone data and try to come up with an insight for a company, in this case Samsung.
