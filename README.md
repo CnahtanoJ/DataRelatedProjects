@@ -1,6 +1,6 @@
 # DataProjects
 
-This repository contains some of my old projects during my university years, internship, and other personal projects. Some, if not all of them may not be perfect, but they are pretty interesting and valuable to my journey as a data analyst/scientist.
+This repository contains some of my old projects during my university years and internship, and other personal projects. Some, if not all of them may not be perfect, but they are pretty interesting and valuable to my journey as a data analyst/scientist.
 
 Complete List of Projects Here:
 
