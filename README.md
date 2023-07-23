@@ -1,8 +1,11 @@
 # DataProjects
 
-This repository contains some of my old projects during my university years and internship, and other personal projects. Some, if not all of them may not be perfect, but they are pretty interesting and valuable to my journey as a data analyst/scientist.
+This repository contains my old projects during my university years and internship, and other personal projects. Some, if not all of them may not be perfect, but they are pretty interesting and valuable to my journey as a data analyst/scientist. Note that some of the dataset (usually from certain companies) will not be published.
 
-Complete List of Projects Here:
-
-1. Fraud Detection: A group project for my Data Science Class. Utilizing H2O, we managed to get 0.48 on F1-Score using Gradient Boosting to predict fraud.
-2. Smartphone Brand Analysis: An individual project for my Data Science Class. Basically I analyzed customer's smartphone data and try to come up with an insight for a company, in this case Samsung.
+Complete List of Projects Here (In chronological order):
+1. Time Series Analysis of New Zealand Temperature: A group project for time series course in the 4th Semester. We forecasted New Zealand's Temperature.
+2. Simultaneous Equation Model: Also a group project for econometrics course in the 4th Semester. We created a SEM Model of....
+3. Smartphone Brand Analysis: An individual project for my Data Science Class in 6th Semester. Basically I analyzed customer's smartphone data and try to come up with an insight for a company, in this case Samsung. 
+4. Fraud Detection: A group project for my Data Science Class. Utilizing H2O, we managed to get 0.48 on F1-Score using Gradient Boosting to predict fraud.
+5. Cafe Data Analysis: An independent project I did while I was interning in a Cafe. I cleaned, analyzed, and visualized some data, and did a market basket analysis as well as simple sentiment analysis.
+6. (Ongoing) Image Recognition Using CNN: A personal project intended to give myself a deeper understanding on Neural Network.
