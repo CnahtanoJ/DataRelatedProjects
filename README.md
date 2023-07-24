@@ -5,7 +5,7 @@ This repository contains my old projects during my university years and internsh
 Complete List of Projects Here (In chronological order):
 1. Forecasting of New Zealand Temperature: A group project for time series course in the 4th Semester. We managed to get 94% accuracy on SMA(0,0,1)(0,1,1)12 and SARIMA(1,0,1)(2,1,1)12 model when forecasting New Zealand's average monthly temperature.
    
-2. Simultaneous Equation Model: Also a group project for econometrics course in the 4th Semester. We created a SEM Model of....
+2. Simultaneous Equation Model Analysis of USA National Income: Also a group project for econometrics course in the 4th Semester. We did SEM analysis on USA National Income using G Menges' econometrics submodel for the West German economy in 1975. The best model is the log-transformed SEM model since it has the highest R-squared and is able to fullfil all of the classic assumption for the regression.
 
 3. Smartphone Brand Analysis: An individual project for my Data Science Class in 6th Semester. Basically I analyzed customer's smartphone data and try to come up with an insight for a company, in this case Samsung. 
 
