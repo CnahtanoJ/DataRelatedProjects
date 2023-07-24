@@ -4,8 +4,13 @@ This repository contains my old projects during my university years and internsh
 
 Complete List of Projects Here (In chronological order):
 1. Forecasting of New Zealand Temperature: A group project for time series course in the 4th Semester. We managed to get 94% accuracy on SMA(0,0,1)(0,1,1)12 and SARIMA(1,0,1)(2,1,1)12 model when forecasting New Zealand's average monthly temperature.
+   
 2. Simultaneous Equation Model: Also a group project for econometrics course in the 4th Semester. We created a SEM Model of....
+
 3. Smartphone Brand Analysis: An individual project for my Data Science Class in 6th Semester. Basically I analyzed customer's smartphone data and try to come up with an insight for a company, in this case Samsung. 
+
 4. Fraud Detection: A group project for my Data Science Class. Utilizing H2O, we managed to get 0.48 on F1-Score using Gradient Boosting to predict fraud.
+
 5. Cafe Data Analysis: An independent project I did while I was interning in a Cafe. I cleaned, analyzed, and visualized some data, and did a market basket analysis as well as simple sentiment analysis.
+
 6. (Ongoing) Image Recognition Using CNN: A personal project intended to give myself a deeper understanding on Neural Network.
