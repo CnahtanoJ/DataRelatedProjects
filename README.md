@@ -12,3 +12,4 @@ Complete List of Projects Here (In chronological order):
 4. Fraud Detection: A group project for my Data Science Class. Utilizing H2O, we managed to get 0.48 on F1-Score using Gradient Boosting to predict fraud.
 
 5. (Ongoing) Image Recognition Using CNN: A personal project intended to give myself a deeper understanding on Neural Network.
+
