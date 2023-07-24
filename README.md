@@ -11,6 +11,4 @@ Complete List of Projects Here (In chronological order):
 
 4. Fraud Detection: A group project for my Data Science Class. Utilizing H2O, we managed to get 0.48 on F1-Score using Gradient Boosting to predict fraud.
 
-5. Cafe Data Analysis: An independent project I did while I was interning in a Cafe. I cleaned, analyzed, and visualized some data, and did a market basket analysis as well as simple sentiment analysis.
-
-6. (Ongoing) Image Recognition Using CNN: A personal project intended to give myself a deeper understanding on Neural Network.
+5. (Ongoing) Image Recognition Using CNN: A personal project intended to give myself a deeper understanding on Neural Network.
